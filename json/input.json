@@ -1,0 +1,19 @@
+{
+  "flock": [
+    {
+      "id": 1,
+      "first_name": "Duey",
+      "last_name": "Duck"
+    },
+    {
+      "id": 2,
+      "first_name": "Huey",
+      "last_name": "Duck"
+    },
+    {
+      "id": 3,
+      "first_name": "Luey",
+      "last_name": "Duck"
+    }
+  ]
+}
